@@ -59,4 +59,5 @@ if 'Unnamed: 0' in df_cleaned.columns:
     plt.xlabel('Category')
     plt.ylabel('Count')
     plt.show()
+[cleaned_livestock_data.xlsx](https://github.com/user-attachments/files/19763316/cleaned_livestock_data.xlsx)
 
